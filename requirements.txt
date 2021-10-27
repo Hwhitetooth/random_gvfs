@@ -1,0 +1,9 @@
+jax==0.2.18
+https://storage.googleapis.com/jax-releases/cuda111/jaxlib-0.1.69+cuda111-cp38-none-manylinux2010_x86_64.whl
+dm-haiku==0.0.4
+rlax==0.0.4
+gym[atari]==0.18.3
+optax==0.0.9
+chex==0.0.8
+ray[tune]
+dm-tree
